@@ -1,0 +1,49 @@
+body {
+	background-color: #f95656;
+	
+}
+
+h1 {
+	font-family: Apple Chancery;
+	border: 4px solid  #000000;
+}
+
+h1.Border {
+	color:    #000000;
+	border: 6px  solid    #000000 ;
+	border-radius: 10px;  
+	font-size: 50px;
+}
+
+li {
+	font-family: Arial;
+}
+
+p {
+	font-family: Baoli SC;
+	font-size: 25px;
+}
+
+p.some {
+	font-family: Baoli SC;
+	font-size: 26px;
+}
+
+p.somebody {
+	font-family: Baoli SC;
+	font-size: 27px;
+}
+
+h1.two {
+	color:  #9596f3;
+}
+
+h1.three {
+	font-family: Baoli SC;
+	color: #000000;
+	border: 1px;
+}
+
+
+
+
