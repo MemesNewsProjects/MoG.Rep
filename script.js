@@ -11,7 +11,7 @@ function getvalues(event){
   if (Username.value=="Admin" && Pass.value=="1235") {
     location.replace("./admin.html");
   } else {
-    NameError.innerHTML = " Zadali jste spatne udaje!!"
+    NameError.innerHTML = " wrong shit dude"
   }
 }
 
