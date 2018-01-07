@@ -45,5 +45,8 @@ h1.three {
 }
 
 
-
+#error{
+	color: red;
+	padding: 15px;
+}
 

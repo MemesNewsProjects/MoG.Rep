@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<link rel="stylesheet" type="text/css" href="main.css">
+  <head>
+    <meta charset="utf-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <h1 class="three">Login</h1>
 
-	<title>LOGIN - MNP</title>
-</head>
-<body>
-	<h1 class="three"> MNP </h1>
 
-	<form id="form">
-			Username:
-			<br/>
-			<input type="text" name="name" id="name"/>
-			<br/>
-			Password:
-			<br/>
-			<input type="Password" name="pass">
-		<br/>
-		<input type="submit" value="Sign in">
+    <form id="form">
+      <div id="error"></div>
 
-	<P>This login won't actually work. It is still in progress.</P>
-</body>
+      Prvni jmeno: <br/>
+      <input type="text" name="name" id="name"/>
+      <br/>
+      Heslo: <br/>
+      <input type="password" name="pass" id="pass"/>
+      <br/>
+      <input type="submit" value="Prihlasit se" />
+    </form>
+  </body>
+  <script type="text/javascript" src="script.js"></script>
 </html>
