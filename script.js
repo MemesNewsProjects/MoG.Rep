@@ -18,3 +18,6 @@ function getvalues(event){
 var form = document.getElementById("form")
 
 form.addEventListener("submit",getvalues)
+
+
+alert("HEY ADMIN!")

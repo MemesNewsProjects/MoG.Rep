@@ -50,3 +50,53 @@ h1.three {
 	padding: 15px;
 }
 
+h2.sum{
+	color: #0f2032; 
+	font-family:Apple Chancery;
+	font-size:40px;
+	border:5px solid black;
+	border-radius: 4px;
+}
+
+a.som{
+	font-size: 25px;
+	color: #3b66d8;
+	font-family:Baoli SC;
+}
+
+p.sam{
+	font-size:25px;
+	color: #3c66d8;
+	font-family:Baoli SC;
+
+}
+
+p.lol{
+	font-size:25px;
+	color: #3c66d8;
+	font-family:Baoli SC;
+}
+
+p.Lol{
+	font-size:25px;
+	color:#3c66d8;
+	font-family:Baoli SC;
+}
+
+a.LoL{
+	color:#3c66d8;
+}
+
+img{
+	padding: 4px;
+	width: 240px;
+	height: 140px;
+}
+
+
+
+
+
+
+
+
